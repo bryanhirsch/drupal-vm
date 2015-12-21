@@ -4,3 +4,4 @@
 .vagrant/
 vagrant_ansible_inventory_default
 examples/prod/inventory
+scripts/
